@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipageTabApp", "MultipageTabApp\MultipageTabApp.csproj", "{ADC2231C-3CA5-497A-B393-E828BF0E5177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipageFlyoutApp", "MultipageFlyoutApp\MultipageFlyoutApp.csproj", "{07579780-F409-486F-B872-3A26BB4E74BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC2231C-3CA5-497A-B393-E828BF0E5177}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07579780-F409-486F-B872-3A26BB4E74BB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3EC568-129F-4751-8C8A-BE70828A09A8}
+	EndGlobalSection
+EndGlobal
